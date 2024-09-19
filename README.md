@@ -10,7 +10,7 @@
 **Team Member:**
 - Amir (Role: Lead Developer)
 
-**Timeline:** September 11, 2024 - September 18, 2024
+**Timeline:** September August11, 2024 - September10, 2024
 
 This project was created to provide a streamlined method for keeping track of notes and tasks in one place. As the sole developer, I focused on developing core functionalities and ensuring a seamless user experience.
 
@@ -20,7 +20,7 @@ The need for a reliable and organized way to manage multiple tasks and ideas ins
 
 ## Achievements
 
-- **Architectural Diagram:** [Link to Diagram]
+- **Architectural Diagram:**
 - **Technologies Used:**
   - **Frontend:** HTML5, CSS3, JavaScript
   - **Backend:** Python, Django
